@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gscomercialsst.github.io/gs-consultoria-site/sitemap.xml
